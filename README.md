@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Marc and I love to develop code for physics and engineering applications.
+
+
 <!--
 **Marcraven/Marcraven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
