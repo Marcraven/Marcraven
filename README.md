@@ -2,6 +2,8 @@
 
 My name is Marc and I love to develop code for physics and engineering applications.
 
+My background is basically self-taught matlab, but I am currently learning data science applications using python mostly.
+
 
 <!--
 **Marcraven/Marcraven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
