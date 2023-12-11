@@ -2,7 +2,7 @@
 
 My name is Marc and I love to develop code for physics and engineering applications.
 
-My background is basically self-taught matlab, but I am currently learning data science applications using python mostly.
+I started coding in Matlab, learned a bit of C# and now enjoying Python.
 
 
 <!--
